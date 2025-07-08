@@ -1,0 +1,29 @@
+body {
+    background-color: #FAF9F6;
+    color: black;
+}
+ul {
+ display:flex;
+ justify-content: center;
+ padding: 0;
+}
+
+li{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+
+}
+
+.meio {
+    border-left: solid 1px black;
+    border-right: solid 1px black;
+}
+
+nav {
+    width: 100%;
+    position: fixed;
+    bottom: 15px;
+}
+ 
+
