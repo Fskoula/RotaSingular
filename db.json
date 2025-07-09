@@ -1,0 +1,509 @@
+{
+    "roteiros": [
+        {
+            "cidade": "Lisboa",
+            "pais": "Portugal",
+            "dias": [
+                {
+                    "dia": 1,
+                    "refeicoes": {
+                        "cafe_da_manha": "Nicolau Lisboa",
+                        "almoco": "Time Out Market",
+                        "jantar": "Taberna da Rua das Flores"
+                    },
+                    "museus": [
+                        "Museu Nacional do Azulejo"
+                    ],
+                    "parques": [
+                        "Jardim do Torel"
+                    ],
+                    "pontos_turisticos": [
+                        "Castelo de São Jorge",
+                        "Miradouro da Senhora do Monte",
+                        "Catedral da Sé"
+                    ]
+                },
+                {
+                    "dia": 2,
+                    "refeicoes": {
+                        "cafe_da_manha": "Fauna & Flora",
+                        "almoco": "Cervejaria Ramiro",
+                        "jantar": "Sea Me - Peixaria Moderna"
+                    },
+                    "museus": [
+                        "Museu Calouste Gulbenkian"
+                    ],
+                    "parques": [
+                        "Parque Eduardo VII"
+                    ],
+                    "pontos_turisticos": [
+                        "Elevador de Santa Justa",
+                        "Praça do Comércio",
+                        "Rua Augusta"
+                    ]
+                },
+                {
+                    "dia": 3,
+                    "refeicoes": {
+                        "cafe_da_manha": "Hello, Kristof",
+                        "almoco": "Cantinho do Avillez",
+                        "jantar": "Ponto Final"
+                    },
+                    "museus": [
+                        "MAAT - Museu de Arte, Arquitetura e Tecnologia"
+                    ],
+                    "parques": [
+                        "Jardim Botânico da Universidade de Lisboa"
+                    ],
+                    "pontos_turisticos": [
+                        "Torre de Belém",
+                        "Mosteiro dos Jerónimos",
+                        "Padrão dos Descobrimentos"
+                    ]
+                },
+                {
+                    "dia": 4,
+                    "refeicoes": {
+                        "cafe_da_manha": "Wish Slow Coffee House",
+                        "almoco": "Zé dos Cornos",
+                        "jantar": "Pharmacia"
+                    },
+                    "museus": [
+                        "Museu do Fado"
+                    ],
+                    "parques": [
+                        "Tapada das Necessidades"
+                    ],
+                    "pontos_turisticos": [
+                        "Bairro Alto",
+                        "Alfama",
+                        "Miradouro de São Pedro de Alcântara"
+                    ]
+                },
+                {
+                    "dia": 5,
+                    "refeicoes": {
+                        "cafe_da_manha": "The Mill",
+                        "almoco": "Mercado de Campo de Ourique",
+                        "jantar": "Casa da Índia"
+                    },
+                    "museus": [
+                        "Museu Coleção Berardo"
+                    ],
+                    "parques": [
+                        "Jardim da Estrela"
+                    ],
+                    "pontos_turisticos": [
+                        "LX Factory",
+                        "Mosteiro de São Vicente de Fora",
+                        "Museu Nacional de Arte Antiga"
+                    ]
+                }
+            ]
+        },
+        {
+            "cidade": "Buenos Aires",
+            "pais": "Argentina",
+            "dias": [
+                {
+                    "dia": 1,
+                    "refeicoes": {
+                        "cafe_da_manha": "Cocu Boulangerie",
+                        "almoco": "El Preferido de Palermo",
+                        "jantar": "Don Julio"
+                    },
+                    "museus": [
+                        "Museo Nacional de Bellas Artes"
+                    ],
+                    "parques": [
+                        "Parque Tres de Febrero"
+                    ],
+                    "pontos_turisticos": [
+                        "Obelisco",
+                        "Teatro Colón",
+                        "Avenida Corrientes"
+                    ]
+                },
+                {
+                    "dia": 2,
+                    "refeicoes": {
+                        "cafe_da_manha": "Ninina Bakery",
+                        "almoco": "La Cabrera",
+                        "jantar": "Casa Cavia"
+                    },
+                    "museus": [
+                        "MALBA - Museo de Arte Latinoamericano de Buenos Aires"
+                    ],
+                    "parques": [
+                        "Jardín Japonés"
+                    ],
+                    "pontos_turisticos": [
+                        "Floralis Genérica",
+                        "Cemitério da Recoleta",
+                        "Basílica Nuestra Señora del Pilar"
+                    ]
+                },
+                {
+                    "dia": 3,
+                    "refeicoes": {
+                        "cafe_da_manha": "Oui Oui",
+                        "almoco": "Sarkis",
+                        "jantar": "Chori"
+                    },
+                    "museus": [
+                        "Museo Evita"
+                    ],
+                    "parques": [
+                        "Reserva Ecológica Costanera Sur"
+                    ],
+                    "pontos_turisticos": [
+                        "Puerto Madero",
+                        "Ponte da Mulher",
+                        "Casino Buenos Aires"
+                    ]
+                },
+                {
+                    "dia": 4,
+                    "refeicoes": {
+                        "cafe_da_manha": "Lattente",
+                        "almoco": "Parrilla Peña",
+                        "jantar": "El Cuartito"
+                    },
+                    "museus": [
+                        "Museo de Arte Moderno de Buenos Aires"
+                    ],
+                    "parques": [
+                        "Bosques de Palermo"
+                    ],
+                    "pontos_turisticos": [
+                        "La Boca",
+                        "Caminito",
+                        "Estádio La Bombonera"
+                    ]
+                },
+                {
+                    "dia": 5,
+                    "refeicoes": {
+                        "cafe_da_manha": "Felix Felicis & Co.",
+                        "almoco": "Gran Dabbang",
+                        "jantar": "Tegui"
+                    },
+                    "museus": [
+                        "Museo Histórico Nacional"
+                    ],
+                    "parques": [
+                        "Plaza San Martín"
+                    ],
+                    "pontos_turisticos": [
+                        "Plaza de Mayo",
+                        "Casa Rosada",
+                        "Cabildo de Buenos Aires"
+                    ]
+                }
+            ]
+        },
+        {
+            "cidade": "Paris",
+            "pais": "França",
+            "dias": [
+                {
+                    "dia": 1,
+                    "refeicoes": {
+                        "cafe_da_manha": "Carette",
+                        "almoco": "Le Relais de l’Entrecôte",
+                        "jantar": "Septime"
+                    },
+                    "museus": [
+                        "Museu do Louvre"
+                    ],
+                    "parques": [
+                        "Jardins das Tulherias"
+                    ],
+                    "pontos_turisticos": [
+                        "Torre Eiffel",
+                        "Catedral de Notre-Dame",
+                        "Arco do Triunfo"
+                    ]
+                },
+                {
+                    "dia": 2,
+                    "refeicoes": {
+                        "cafe_da_manha": "Holybelly",
+                        "almoco": "Chez Janou",
+                        "jantar": "Le Chateaubriand"
+                    },
+                    "museus": [
+                        "Musée d'Orsay"
+                    ],
+                    "parques": [
+                        "Jardim de Luxemburgo"
+                    ],
+                    "pontos_turisticos": [
+                        "Montmartre",
+                        "Basílica de Sacré-Cœur",
+                        "Muro do Amor"
+                    ]
+                },
+                {
+                    "dia": 3,
+                    "refeicoes": {
+                        "cafe_da_manha": "Fragments",
+                        "almoco": "L’As du Fallafel",
+                        "jantar": "Frenchie"
+                    },
+                    "museus": [
+                        "Centro Pompidou"
+                    ],
+                    "parques": [
+                        "Parc des Buttes-Chaumont"
+                    ],
+                    "pontos_turisticos": [
+                        "Ilê de la Cité",
+                        "Conciergerie",
+                        "Sainte-Chapelle"
+                    ]
+                },
+                {
+                    "dia": 4,
+                    "refeicoes": {
+                        "cafe_da_manha": "Ob-La-Di",
+                        "almoco": "Breizh Café",
+                        "jantar": "Le Grand Véfour"
+                    },
+                    "museus": [
+                        "Musée Rodin"
+                    ],
+                    "parques": [
+                        "Parc Monceau"
+                    ],
+                    "pontos_turisticos": [
+                        "Place Vendôme",
+                        "Ópera Garnier",
+                        "Pont Alexandre III"
+                    ]
+                },
+                {
+                    "dia": 5,
+                    "refeicoes": {
+                        "cafe_da_manha": "Du Pain et des Idées",
+                        "almoco": "Le Petit Cler",
+                        "jantar": "Guy Savoy"
+                    },
+                    "museus": [
+                        "Musée de l'Orangerie"
+                    ],
+                    "parques": [
+                        "Bois de Boulogne"
+                    ],
+                    "pontos_turisticos": [
+                        "Champs-Élysées",
+                        "Place de la Concorde",
+                        "Panthéon"
+                    ]
+                }
+            ]
+        },
+        {
+            "cidade": "Tóquio",
+            "pais": "Japão",
+            "dias": [
+                {
+                    "dia": 1,
+                    "refeicoes": {
+                        "cafe_da_manha": "Ivy Place",
+                        "almoco": "Ichiran Ramen",
+                        "jantar": "Sukiyabashi Jiro"
+                    },
+                    "museus": [
+                        "Museu Edo-Tóquio"
+                    ],
+                    "parques": [
+                        "Yoyogi Park"
+                    ],
+                    "pontos_turisticos": [
+                        "Shibuya Crossing",
+                        "Templo Meiji",
+                        "Torre de Tóquio"
+                    ]
+                },
+                {
+                    "dia": 2,
+                    "refeicoes": {
+                        "cafe_da_manha": "Bread, Espresso &",
+                        "almoco": "Genki Sushi",
+                        "jantar": "Narisawa"
+                    },
+                    "museus": [
+                        "Museu Nacional de Tóquio"
+                    ],
+                    "parques": [
+                        "Ueno Park"
+                    ],
+                    "pontos_turisticos": [
+                        "Akihabara",
+                        "Asakusa",
+                        "Templo Senso-ji"
+                    ]
+                },
+                {
+                    "dia": 3,
+                    "refeicoes": {
+                        "cafe_da_manha": "Cafe Kitsuné",
+                        "almoco": "Afuri Ramen",
+                        "jantar": "Tempura Kondo"
+                    },
+                    "museus": [
+                        "Museu Ghibli"
+                    ],
+                    "parques": [
+                        "Shinjuku Gyoen"
+                    ],
+                    "pontos_turisticos": [
+                        "Harajuku",
+                        "Takeshita Street",
+                        "Omotesando"
+                    ]
+                },
+                {
+                    "dia": 4,
+                    "refeicoes": {
+                        "cafe_da_manha": "City Bakery",
+                        "almoco": "Uogashi Nihon-Ichi",
+                        "jantar": "Kanda"
+                    },
+                    "museus": [
+                        "Museu de Arte Contemporânea de Tóquio"
+                    ],
+                    "parques": [
+                        "Hamarikyu Gardens"
+                    ],
+                    "pontos_turisticos": [
+                        "Ginza",
+                        "Roppongi Hills",
+                        "Tokyo Skytree"
+                    ]
+                },
+                {
+                    "dia": 5,
+                    "refeicoes": {
+                        "cafe_da_manha": "Sarabeth's",
+                        "almoco": "Maisen Tonkatsu",
+                        "jantar": "Ukai-tei"
+                    },
+                    "museus": [
+                        "Museu Nezu"
+                    ],
+                    "parques": [
+                        "Imperial Palace East Gardens"
+                    ],
+                    "pontos_turisticos": [
+                        "Odaiba",
+                        "Rainbow Bridge",
+                        "TeamLab Planets"
+                    ]
+                }
+            ]
+        },
+        {
+            "cidade": "Nova York",
+            "pais": "Estados Unidos",
+            "dias": [
+                {
+                    "dia": 1,
+                    "refeicoes": {
+                        "cafe_da_manha": "Buvette",
+                        "almoco": "Joe's Pizza",
+                        "jantar": "Eleven Madison Park"
+                    },
+                    "museus": [
+                        "MoMA - Museum of Modern Art"
+                    ],
+                    "parques": [
+                        "Central Park"
+                    ],
+                    "pontos_turisticos": [
+                        "Times Square",
+                        "Rockefeller Center",
+                        "St. Patrick’s Cathedral"
+                    ]
+                },
+                {
+                    "dia": 2,
+                    "refeicoes": {
+                        "cafe_da_manha": "Russ & Daughters Cafe",
+                        "almoco": "Shake Shack",
+                        "jantar": "Le Bernardin"
+                    },
+                    "museus": [
+                        "Museu de História Natural"
+                    ],
+                    "parques": [
+                        "Bryant Park"
+                    ],
+                    "pontos_turisticos": [
+                        "Empire State Building",
+                        "Flatiron Building",
+                        "High Line"
+                    ]
+                },
+                {
+                    "dia": 3,
+                    "refeicoes": {
+                        "cafe_da_manha": "Jack's Wife Freda",
+                        "almoco": "Katz’s Delicatessen",
+                        "jantar": "ABC Kitchen"
+                    },
+                    "museus": [
+                        "The Met - Metropolitan Museum of Art"
+                    ],
+                    "parques": [
+                        "Madison Square Park"
+                    ],
+                    "pontos_turisticos": [
+                        "5th Avenue",
+                        "Grand Central Terminal",
+                        "Chrysler Building"
+                    ]
+                },
+                {
+                    "dia": 4,
+                    "refeicoes": {
+                        "cafe_da_manha": "Butler Bakeshop",
+                        "almoco": "Prince Street Pizza",
+                        "jantar": "L'Artusi"
+                    },
+                    "museus": [
+                        "Whitney Museum of American Art"
+                    ],
+                    "parques": [
+                        "Washington Square Park"
+                    ],
+                    "pontos_turisticos": [
+                        "SoHo",
+                        "Greenwich Village",
+                        "One World Trade Center"
+                    ]
+                },
+                {
+                    "dia": 5,
+                    "refeicoes": {
+                        "cafe_da_manha": "Daily Provisions",
+                        "almoco": "Eataly",
+                        "jantar": "Gramercy Tavern"
+                    },
+                    "museus": [
+                        "The Guggenheim"
+                    ],
+                    "parques": [
+                        "Battery Park"
+                    ],
+                    "pontos_turisticos": [
+                        "Estátua da Liberdade",
+                        "Ellis Island",
+                        "Wall Street"
+                    ]
+                }
+            ]
+        }
+    ]
+}
