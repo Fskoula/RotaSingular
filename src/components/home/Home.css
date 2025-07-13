@@ -1,29 +1,183 @@
-body {
-    background-color: #FAF9F6;
-    color: black;
-}
-ul {
- display:flex;
- justify-content: center;
- padding: 0;
+span {
+    font-family: "Roboto";
+    color: #242424;
 }
 
-li{
+.tela-home {
+    height: 100vh;
+    width: 100vw;
     display: flex;
-    justify-content: space-around;
-    padding: 15px;
-
+    background-color: #E1F3E0;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    gap: 90px;
 }
 
-.meio {
-    border-left: solid 1px black;
-    border-right: solid 1px black;
+.novo-roteiro-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    width: 100vw;
+    height: 100px;
+    background-color: #A3D9A5;
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
 }
 
-nav {
-    width: 100%;
-    position: fixed;
-    bottom: 15px;
+.botao-novo-roteiro {
+    width: 72%;
+    background-color: #6DA77A;
+    color: white;
+    font-size: 18px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 18px;
+    margin-bottom: -20px;
 }
- 
 
+.conteudo-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    gap: 60px;
+    height: 100vh;
+    width: 100vw;
+    margin-left: 50px;
+}
+
+.proxima-viagem-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.texto-grande {
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.informacoes-viagem {
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.imagem-container {
+    height: 100px;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    border-radius: 16px;
+}
+
+.imagem {
+    width: 100vw;
+    height: auto;
+    object-fit: cover;
+}
+
+.descricao-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.descricao-viagem {
+    display: flex;
+    flex-direction: column;
+}
+
+.texto-medio {
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.texto-pequeno {
+    font-size: 12px;
+    color: #7D7D7B;
+}
+
+
+.tempo-viagem {
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+}
+
+.contagem-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+}
+
+
+.numero-descricao {
+    font-family: "Poppins";
+    font-weight: 300;
+    font-size: 8px;
+    color: #7D7D7B;
+}
+
+.numero-grande, .divisao-horario {
+    font-family: "Poppins";
+    font-weight: 500;
+    font-size: 22px;
+    color: #4D4D4D;
+}
+
+
+.destinos-populares-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.carrossel {
+    display: flex;
+    flex-direction: row;
+    height: 180px;
+    gap: 30px;
+}
+
+.imagem-carrossel-container {
+    height: 165px;
+    width: 165px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    border-radius: 16px;
+}
+
+.texto-flutuante {
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    margin-top: 15%;
+    margin-right: 20%;
+    background-color: rgba(40, 40, 40, 0.3); /* leve transparência */
+    padding: 2px 2px;
+    border-radius: 6px;
+}
+
+.favorito {
+    position: absolute;
+    color: white;
+    height: 30px;
+    width: 30px;
+    margin-bottom: 30%;
+    margin-left: 30%;
+    
+    img {
+        width: 30px;
+        height: 30px;
+    }
+}
