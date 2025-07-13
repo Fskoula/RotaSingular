@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import { Route, Routes } from 'react-router-dom'
 import Home from './components/home/Home'
+import Carregamento from './components/carregamento/carregamento'
 
 
 function App() {
@@ -11,11 +12,12 @@ function App() {
 
   return (
     <>
-      <div>
-      <Home/>
+      <div style={{ height: '100vh', width: '100%' }}>
+        <Carregamento/>
+        {/* <Home/> */}
+        {/* <span>TESTE</span>
+          */}
       </div>
-      
-
     </>
   )
 }
