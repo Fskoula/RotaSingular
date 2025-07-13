@@ -1,0 +1,70 @@
+span {
+    font-family: "Roboto";
+    font-weight: 200;
+}
+
+.tela-onboarding {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    background-color: #FAF9F6;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    gap: 30px;
+}
+
+.imagem-container {
+    background-color: red;
+    height: 40%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.imagem {
+    width: 100vw;
+    height: auto;
+    object-fit: cover;
+}
+
+.titulo {
+    margin-right: 40px;
+}
+
+.texto-container {
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    margin: 0px 40px 0px 40px;
+}
+
+.texto-grande {
+    font-size: 20px;
+    font-weight: 700;
+    font-family: "Roboto" sans-serif;
+    line-height: 0.5;
+}
+
+.descricao-container {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.botao-container {
+    width: 100%;
+    margin-right: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: end;
+}
+
+.botao {
+    width: 40px;
+    height: 40px;
+}
