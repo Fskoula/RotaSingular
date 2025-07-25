@@ -4,6 +4,8 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import { Route, Routes } from 'react-router-dom'
 import Menu from './components/menu/menu'
+import InicioRoteiro from './components/criar-roteiro/InicioRoteiro'
+import InicioRoteiroPerg from './components/criar-roteiro/InicioRoteiroPerg'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -11,6 +13,7 @@ function App() {
   return (
     <>
       <div>
+       <InicioRoteiroPerg/>
         <Menu/>
       </div>
     </>
