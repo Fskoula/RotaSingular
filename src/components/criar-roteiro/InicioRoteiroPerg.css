@@ -1,0 +1,26 @@
+h2 {
+    text-align: center;
+    font-size: 17px;
+    font-family: Roboto light;
+    margin-top:0%;
+    padding-top: 50px;
+   
+}
+.container {
+    width: 360px;
+    height: 638px;
+    margin-bottom: 100px;
+    background-color: rgba(225, 243, 224, 1);
+    padding: 0%;
+}
+
+.opcao{
+    width: 20px;
+    height: 20px; 
+}
+  
+.containerCheck{
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}

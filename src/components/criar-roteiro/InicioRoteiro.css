@@ -1,0 +1,70 @@
+
+h2 {
+    text-align: center;
+    font-size: 17px;
+    font-family: Roboto light;
+    margin-top:0%;
+    padding-top: 50px;
+   
+}
+
+h1 {
+    text-align: left;
+    font-size: 26px;
+    font-family: Roboto SemiBold;
+    margin: 0%;
+}
+
+.container {
+    width: 360px;
+    height: 638px;
+    margin-bottom: 100px;
+    background-color: rgba(225, 243, 224, 1);
+    padding: 0%;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    margin-left: 35%;
+
+}
+
+input {
+    width: 328px;
+    height: 48px; 
+    border-radius: 15px;
+    border:0cm;
+    background-color: rgba(163, 217, 165, 1);
+    color: rgba(77, 77, 77, 1);
+
+}
+.roteiroDataLocal{
+    display: flex;
+    flex-direction: column;
+    margin-top: 0%;
+    margin-bottom: 0%;
+  
+}
+
+.liData{
+    margin: 0%;
+    height: 50px;
+    padding:5px;
+    justify-items: left;
+}
+
+.liDataTexto{
+    margin: 0%;
+    margin-right: 63%;
+}
+
+.roteiroBotao{
+    margin-left: 52%;
+    width: 155px;
+    height: 48px;
+    border-radius: 13px;
+    background-color: rgba(163, 217, 165, 1);
+    border: 0cm;
+    color: black;
+}
