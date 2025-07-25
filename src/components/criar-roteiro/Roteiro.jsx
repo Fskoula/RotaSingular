@@ -34,13 +34,13 @@ export default function Roteiro() {
           <p className='roteiro-subtitulo'> Dia {dia.dia}</p>
 
           <ul className='roteiro-texto'>
-            <li>Café da manhã: {dia.refeicoes?.cafe_da_manha}</li>
-            <li>{dia.museus?.[0]}</li>
-            <li>{dia.parques?.[0]}</li>
-            <li>Almoço: {dia.refeicoes?.almoco}</li>
-            <li>{dia.pontos_turisticos?.[0]}</li>
-            <li>{dia.pontos_turisticos?.[1]}</li>
-            <li>Jantar: {dia.refeicoes?.jantar}</li>
+            <li> - Café da manhã: {dia.refeicoes?.cafe_da_manha}</li>
+            <li> - {dia.museus?.[0]}</li>
+            <li> - {dia.parques?.[0]}</li>
+            <li> - Almoço: {dia.refeicoes?.almoco}</li>
+            <li> - {dia.pontos_turisticos?.[0]}</li>
+            <li> - {dia.pontos_turisticos?.[1]}</li>
+            <li> - Jantar: {dia.refeicoes?.jantar}</li>
           </ul>
         </article>
       ))}

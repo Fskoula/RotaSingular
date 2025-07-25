@@ -1,4 +1,5 @@
 import Login from './components/login/Login';
+import Roteiro from './components/criar-roteiro/Roteiro'
 import './App.css';
 
 
@@ -7,7 +8,7 @@ function App() {
     <div className='App'>
 
 
-      <Login/>
+    <Roteiro/>
 
 
     </div>
